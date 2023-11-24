@@ -30324,7 +30324,7 @@ r.amdO = {}, r.n = function(e) {
                     return function(e, r) {
                         return t.apply(this, arguments)
                     }
-                }(), this.isLogin = !1, this.totalStackers = 0, this.stackedAmount = 0, this.rewardIssued = 0, this.address = "", this.contract = "0x404a9966258b5464BD089b556829587f6E72DA41", this.stackingContract = "0x11EE715A7104042da849C84545b4dE16746EBbCe", this.abi = $a, this.owner = "", this.rpc = "https://bsc.meowrpc.com", this.provider = new gn(this.rpc)
+                }(), this.isLogin = !1, this.totalStackers = 0, this.stackedAmount = 0, this.rewardIssued = 0, this.address = "", this.contract = "0x99aE6B435d37995bEfB749670c1fb7c377fBb6d1", this.stackingContract = "0x7700e61178F9aECA3c719F7379566103d9a27208", this.abi = $a, this.owner = "", this.rpc = "https://bsc.meowrpc.com", this.provider = new gn(this.rpc)
             })),
             no = new ro;
         "yes" == sessionStorage.getItem("isLogin") && (no.isLogin = !0, no.user = JSON.parse(sessionStorage.getItem("user"))), s.createRoot(document.getElementById("root")).render((0, Ca.jsx)(o.StrictMode, {
