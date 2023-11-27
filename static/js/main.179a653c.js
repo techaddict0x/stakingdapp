@@ -28463,9 +28463,9 @@ r.amdO = {}, r.n = function(e) {
                         children: (0, Ca.jsxs)("nav", {
                             className: "container fs-4 cen",
                             children: [(0, Ca.jsx)(De, {
-                                to: "https://cryptoheroesnet-4855faf89c52e69809cab4f.webflow.io/",
+                                to: "https://flsflip.netlify.app/",
                                 className: "mx-3",
-                                children: "Crypto Heros"
+                                children: "FlS Coin Flip"
                             }), (0, Ca.jsx)(De, {
                                 to: "/",
                                 className: "mx-3",
@@ -28522,8 +28522,8 @@ r.amdO = {}, r.n = function(e) {
                                 style: {
                                     color: "white"
                                 },
-                                href: "https://team@cryptoheroes.vip",
-                                children: "team@cryptoheroes.vip"
+                                href: "https://flsairdrop.netlify.app/",
+                                children: "Airdrop"
                             })
                         })
                     }), (0, Ca.jsxs)("div", {
