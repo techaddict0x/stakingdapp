@@ -28636,7 +28636,7 @@ r.amdO = {}, r.n = function(e) {
                     children: [(0, Ca.jsx)("div", {
                         children: (0, Ca.jsx)("h1", {
                             className: "fs-9 b ",
-                            children: "Staking Crypto Heros"
+                            children: "Stake FlameSwap Token"
                         })
                     }), C && C > 0 && (0, Ca.jsx)("section", {
                         className: "my-5 mb-5",
@@ -28672,10 +28672,10 @@ r.amdO = {}, r.n = function(e) {
                             className: "mt-3 stacking-packages",
                             children: [(0, Ca.jsx)("p", {
                                 className: "cen fs-5",
-                                children: "Minimum staking period to earn reward is 24 hours"
+                                children: "Minimum staking period to earn reward is 48 hours"
                             }), (0, Ca.jsx)("p", {
                                 className: "cen fs-5",
-                                children: "Yearly APY: 200%"
+                                children: "Yearly APY: 1000%"
                             })]
                         }), (0, Ca.jsxs)("div", {
                             className: "stacking-amount mt-4",
@@ -28686,7 +28686,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Balance : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [a, " $HEROES"]
+                                    children: [a, " FSL"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28695,7 +28695,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Already Staked : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [w, " $HEROES"]
+                                    children: [w, " FSL"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28704,7 +28704,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Approved For Staking : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [E, " $HEROES"]
+                                    children: [E, " FSL"]
                                 })]
                             }), (0, Ca.jsxs)("p", {
                                 className: "right fs-5 available-balance",
@@ -28713,7 +28713,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: "Rewards : "
                                 }), (0, Ca.jsxs)("span", {
                                     className: "b ml-3 tcs ",
-                                    children: [C, " $HEROES"]
+                                    children: [C, " FSL"]
                                 })]
                             }), (0, Ca.jsx)("input", {
                                 onChange: function(e) {
@@ -28765,7 +28765,7 @@ r.amdO = {}, r.n = function(e) {
                                     children: [(0, Ca.jsxs)("strong", {
                                         className: "b u tcs",
                                         children: ["Disclaimer:", " "]
-                                    }), " ", "5% Fee will be taken on unstaking before 24 Hours."]
+                                    }), " ", "5% Fee will be taken on unstaking before 48 Hours."]
                                 }), (0, Ca.jsx)("p", {
                                     className: "cen",
                                     children: (0, Ca.jsxs)("button", {
@@ -28780,7 +28780,7 @@ r.amdO = {}, r.n = function(e) {
                                             }))
                                         },
                                         class: "btn  py-2 mx-3 w-300",
-                                        children: ["Remove ", c, " $Hero", " "]
+                                        children: ["Remove ", c, " FSL", " "]
                                     })
                                 })]
                             })
